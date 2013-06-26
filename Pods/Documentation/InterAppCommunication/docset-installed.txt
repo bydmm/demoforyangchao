@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/bydmm/Library/Developer/Shared/Documentation/DocSets/org.cocoapods.interappcommunication.InterAppCommunication-1.0.docset
+Time: 2013-06-25 10:57:51 +0000

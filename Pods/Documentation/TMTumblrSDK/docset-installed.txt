@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/bydmm/Library/Developer/Shared/Documentation/DocSets/com.tumblr.TMTumblrSDK-1.0.0.docset
+Time: 2013-06-25 10:58:22 +0000
